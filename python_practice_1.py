@@ -1,1 +1,1 @@
-print("Antonina Kalchenko, AI-2024")
+print("Oryna Zudilova, 4-rd group, software engineering")
